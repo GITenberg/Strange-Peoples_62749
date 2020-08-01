@@ -1,0 +1,33 @@
+_repo: Strange-Peoples_62749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Starr, Frederick
+    birthdate: 1858
+    deathdate: 1933
+    gutenberg_agent_id: '5490'
+    url: http://www.gutenberg.org/2009/agents/5490
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Starr
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Ethno-Geographic Reader, No. 1
+subjects:
+- !lcsh 'Ethnology -- Juvenile literature'
+- !lcc 'GN'
+- GITenberg
+tableOfContents: 'Introduction -- The peoples of North America: Eskimo -- Wild Indians
+  -- Mexicans -- South American peoples -- The peoples of Europe: Fair Whites -- Dark
+  Whites -- Basques -- Finns -- Lapps -- Turks -- The peoples of Asia -- Chinese --
+  Coreans -- Tibetans -- Japanese -- Ainu -- Hindus -- Todas -- Andamanese: Mincopies
+  -- Arabs -- The peoples of Africa: Kabyles -- Negroes -- Negroids -- Pygmies --
+  Bushmen and Hottentots -- Malays -- The peoples of the Philippines -- Melanesians
+  -- Polynesians -- Conclusion.'
+title: Strange Peoples
+url: http://www.gutenberg.org/ebooks/62749
